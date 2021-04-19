@@ -1,0 +1,1 @@
+obsidian://open?vault=Obsidian-Brain&file=Data%20of%20Needs
